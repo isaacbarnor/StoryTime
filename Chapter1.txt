@@ -1,0 +1,8 @@
+This is the first chapter in my book
+I don't know why i wrote but it is a good book to write.
+
+This is what we want
+But they wont say
+:w
+:x
+i
