@@ -1,0 +1,6 @@
+This is the chapter 2. It is called chapter 2 because we did not want to call it chapter two
+or Chapter Two
+:w
+
+
+I can't believe we had all this in 
